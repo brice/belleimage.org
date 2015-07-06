@@ -2,7 +2,7 @@
 
 Side project utilisant AngularJS et une API en backend (définition à venir).
 
-Permettre de chercher des thèmes photogrpahiques
+Permettre de chercher des thèmes photogrpahiques quand on est en manque d'idée.
 
 ## Description des pages :
 
